@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "minor_version": 8,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "sala_de_estar",
+        "labels": [],
+        "name": "Sala de estar",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-04-29T20:05:57.786146+00:00",
+        "modified_at": "2025-04-29T20:05:57.786148+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "cozinha",
+        "labels": [],
+        "name": "Cozinha",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-04-29T20:05:57.786305+00:00",
+        "modified_at": "2025-04-29T20:05:57.786306+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "quarto",
+        "labels": [],
+        "name": "Quarto",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-04-29T20:05:57.786355+00:00",
+        "modified_at": "2025-04-29T20:05:57.786357+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "area_externa",
+        "labels": [],
+        "name": "Área externa",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-04-30T11:03:44.150807+00:00",
+        "modified_at": "2025-04-30T11:03:44.150809+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "quarto_1",
+        "labels": [],
+        "name": "Quarto 1",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-04-30T11:03:44.151147+00:00",
+        "modified_at": "2025-04-30T11:03:44.151148+00:00"
+      }
+    ]
+  }
+}

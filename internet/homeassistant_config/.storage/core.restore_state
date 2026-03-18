@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"person.fabio","state":"unknown","attributes":{"editable":true,"id":"fabio","device_trackers":[],"source":"person.fabio","user_id":"992d9769c008449dafc4c8198b3a1713","friendly_name":"Fabio"},"last_changed":"2026-03-18T19:09:20.389501+00:00","last_reported":"2026-03-18T19:09:20.389501+00:00","last_updated":"2026-03-18T19:09:20.389501+00:00","context":{"id":"01KM15ME45PSYHC64410RSJAQM","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-03-18T19:09:27.782122+00:00"
+    },
+    {
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2026-03-18T19:09:25.321190+00:00","last_reported":"2026-03-18T19:09:25.321190+00:00","last_updated":"2026-03-18T19:09:25.321190+00:00","context":{"id":"01KM15MJY978BZ95H0X4AFG387","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-03-18T19:09:27.782122+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2026-03-18T19:09:26.770866+00:00","last_reported":"2026-03-18T19:09:26.770866+00:00","last_updated":"2026-03-18T19:09:26.770866+00:00","context":{"id":"01KM15MMBJGFEJDTQ46272KWP4","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-03-18T19:09:27.782122+00:00"
+    }
+  ]
+}

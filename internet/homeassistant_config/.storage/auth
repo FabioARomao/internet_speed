@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "auth",
+  "data": {
+    "users": [
+      {
+        "id": "6306969c062348b2bf3598425b3d7cea",
+        "group_ids": [
+          "system-read-only"
+        ],
+        "is_owner": false,
+        "is_active": true,
+        "name": "Home Assistant Content",
+        "system_generated": true,
+        "local_only": false
+      },
+      {
+        "id": "992d9769c008449dafc4c8198b3a1713",
+        "group_ids": [
+          "system-admin"
+        ],
+        "is_owner": true,
+        "is_active": true,
+        "name": "Fabio",
+        "system_generated": false,
+        "local_only": false
+      }
+    ],
+    "groups": [
+      {
+        "id": "system-admin",
+        "name": "Administrators"
+      },
+      {
+        "id": "system-users",
+        "name": "Users"
+      },
+      {
+        "id": "system-read-only",
+        "name": "Read Only"
+      }
+    ],
+    "credentials": [
+      {
+        "id": "2b43e71ff522476e8ee1ab6e12c755c1",
+        "user_id": "992d9769c008449dafc4c8198b3a1713",
+        "auth_provider_type": "homeassistant",
+        "auth_provider_id": null,
+        "data": {
+          "username": "fabioromao"
+        }
+      }
+    ],
+    "refresh_tokens": [
+      {
+        "id": "2375b8d4d12c406dbfc7e62177825e9c",
+        "user_id": "6306969c062348b2bf3598425b3d7cea",
+        "client_id": null,
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "system",
+        "created_at": "2025-04-29T19:46:32.166086+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "63e180454633ba8a25d6bdb48e0075514f7648f8292a07901727034f883f4cca7c5a541e43612556aedadab6b0c387fb8764c9627b01215ce595c985fdbda24b",
+        "jwt_key": "1a5526d527bd38836b2e84c2984afb47589de8a6d0781fe927df7c8f8fe2c5948d2765c8a77d93aa822f1cf5e2a141bd38a4234dcab2e593fa128b1e27d23529",
+        "last_used_at": null,
+        "last_used_ip": null,
+        "expire_at": null,
+        "credential_id": null,
+        "version": "2025.4.4"
+      },
+      {
+        "id": "2f04c02809854a72a71300dc4cf41e61",
+        "user_id": "992d9769c008449dafc4c8198b3a1713",
+        "client_id": null,
+        "client_name": "integracao",
+        "client_icon": null,
+        "token_type": "long_lived_access_token",
+        "created_at": "2025-04-29T20:41:59.678848+00:00",
+        "access_token_expiration": 315360000.0,
+        "token": "174add1d98465bd1df3d3dea6e1660016ab0b10f8494940a60c4c3f1f8140786eb7f842dae0dcb22e50a90f483296fad2311e1a84e21565db75cc6373c961736",
+        "jwt_key": "1148d650c13b18b60e315df448bdf81792f0ba90ef437dfbfcd18b18649450e802d8682ade9508ffe8e9536daaeb527f29dd8a293219c785e50a7cb0190dea77",
+        "last_used_at": "2025-04-29T20:41:59.679099+00:00",
+        "last_used_ip": null,
+        "expire_at": null,
+        "credential_id": null,
+        "version": "2025.4.4"
+      }
+    ]
+  }
+}
